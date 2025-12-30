@@ -1,0 +1,15 @@
+{
+  "progressionEvents": {
+    "evt_001": {
+      "eventId": "evt_001",
+      "userId": "testUser_001",
+      "type": "TASK_COMPLETED",
+      "subtype": "MEDIUM_TASK",
+      "occurredAt": "2025-01-10T08:15:00Z",
+      "metadata": {
+        "taskId": "task_walk",
+        "reflectionPresent": "false"
+      }
+    }
+  }
+}

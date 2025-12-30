@@ -1,0 +1,15 @@
+{
+  "tasks": {
+    "task_walk": {
+      "taskId": "task_walk",
+      "userId": "testUser_001",
+      "projectId": "project_health",
+      "title": "30 minute walk",
+      "notes": null,
+      "estimatedDepth": "medium",
+      "status": "completed",
+      "createdAt": "2025-01-10T07:30:00Z",
+      "completedAt": "2025-01-10T08:15:00Z"
+    }
+  }
+}

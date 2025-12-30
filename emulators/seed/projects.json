@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "project_health": {
+      "projectId": "project_health",
+      "userId": "testUser_001",
+      "title": "Health & Energy",
+      "description": "Sleep, movement, recovery",
+      "createdAt": "2025-01-02T10:00:00Z",
+      "archivedAt": null,
+      "isArchived": false
+    }
+  }
+}
